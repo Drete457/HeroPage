@@ -4,18 +4,15 @@ body {
   font-family: 'Tohama';
 }
 
-.MainBody {
+.MainBody, .HeroInfo {
   background-color: white;
-  float: left;
+  align-content: center;
+  text-align: justify;
 }
 
 h1 {
   text-align: center;
 }
 
-.HeroInfo {
-  background-color: white;
-  text-align: justify;
-}
 
 

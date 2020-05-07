@@ -3,17 +3,19 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import HeroImage from './HeroImage';
 import {HeroName, HeroBio} from './HeroInfo';
+import {HeroWikipedia, HeroFanPage} from './HeroLink';
 import * as serviceWorker from './serviceWorker';
-
 
 function HeroPage() {
   return (
     <div className="MainBody">
+      <HeroName />
       <HeroImage />
       <div className="HeroInfo">
-        <HeroName />
         <HeroBio />
       </div>
+      <HeroWikipedia />
+      <HeroFanPage />
     </div>
   );
 }
