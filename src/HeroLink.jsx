@@ -12,7 +12,7 @@ export function HeroFanPage(){
 
 function GetHyperLink(props){
   return (
-    <a href={props.url}>{props.name}</a>
+    <a href={props.url} target="_blank" rel="noopener noreferrer">{props.name}</a>
   );
 }
 

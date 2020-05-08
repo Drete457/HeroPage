@@ -9,13 +9,18 @@ import * as serviceWorker from './serviceWorker';
 function HeroPage() {
   return (
     <div className="MainBody">
-      <HeroName />
+      
+    <div className="HeroInfo">
       <HeroImage />
-      <div className="HeroInfo">
-        <HeroBio />
-      </div>
+      <HeroName />
+      <HeroBio />
+    </div>
+
+    <div className="Links">
       <HeroWikipedia />
       <HeroFanPage />
+    </div>
+
     </div>
   );
 }
