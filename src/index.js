@@ -9,10 +9,10 @@ import * as serviceWorker from './serviceWorker';
 function HeroPage() {
   return (
     <div className="MainBody">
-      
+       <HeroName />
+       
     <div className="HeroInfo">
       <HeroImage />
-      <HeroName />
       <HeroBio />
     </div>
 
