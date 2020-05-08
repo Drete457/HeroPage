@@ -8,7 +8,7 @@ export function HeroName() {
 
 export function HeroBio() {
   return (
-    <text>
+    <p>
       Natsu is a lean, muscular young man of average height with a slightly tan skin tone, 
       black eyes, spiky pink-colored hair, and has abnormal sharp canines;
       Natsu has a scar on the right side of his neck, hidden by his scarf.
@@ -33,7 +33,7 @@ export function HeroBio() {
     which is instead tucked in and zipped. The sleeve covers Natsu's left arm with a faux leather brown armband, leaving his Fairy Tail mark, 
     as well as his entire right arm, consequently exposed. Natsu continues wearing Igneel's scarf and retains the same lower clothing. 
     He now wears his wristband on his right wrist.
-    </text>
+    </p>
   )
 }
 
