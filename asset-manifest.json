@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HeroPage/static/css/main.57e22a14.chunk.css",
+    "main.js": "/HeroPage/static/js/main.4ef5a021.chunk.js",
+    "main.js.map": "/HeroPage/static/js/main.4ef5a021.chunk.js.map",
+    "runtime-main.js": "/HeroPage/static/js/runtime-main.3b81f9df.js",
+    "runtime-main.js.map": "/HeroPage/static/js/runtime-main.3b81f9df.js.map",
+    "static/js/2.bd095026.chunk.js": "/HeroPage/static/js/2.bd095026.chunk.js",
+    "static/js/2.bd095026.chunk.js.map": "/HeroPage/static/js/2.bd095026.chunk.js.map",
+    "index.html": "/HeroPage/index.html",
+    "precache-manifest.a6ec76e3071e5354f34b75b29b32b7ea.js": "/HeroPage/precache-manifest.a6ec76e3071e5354f34b75b29b32b7ea.js",
+    "service-worker.js": "/HeroPage/service-worker.js",
+    "static/css/main.57e22a14.chunk.css.map": "/HeroPage/static/css/main.57e22a14.chunk.css.map",
+    "static/js/2.bd095026.chunk.js.LICENSE.txt": "/HeroPage/static/js/2.bd095026.chunk.js.LICENSE.txt",
+    "static/media/natsu.png": "/HeroPage/static/media/natsu.3d1042bd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b81f9df.js",
+    "static/js/2.bd095026.chunk.js",
+    "static/css/main.57e22a14.chunk.css",
+    "static/js/main.4ef5a021.chunk.js"
+  ]
+}
